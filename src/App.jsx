@@ -51,7 +51,8 @@ function App() {
           speed={0.05}
           onClick={() => ref.current.scrollTo(3)}
         >
-          <h2>Welcome to my website</h2>
+          <h3>Hii Gladis Fadilaku Cantik❤️</h3> 
+          <h4>Ini Surat Permintaan Maaf Dariku Untukmu 😔</h4>
         </ParallaxLayer>
 
         <ParallaxLayer
@@ -59,7 +60,8 @@ function App() {
           speed={2}
           onClick={() => ref.current.scrollTo(0)}
         >
-          <h2>Hi Mom!</h2>
+          <h4>Pleasee!! Udahan dong ngambeknya sayang! Orang beneran hampa dan kesepian disini 😭😭</h4>
+          <p>Blokirnya dibuka lagi ya sayang 😍 Abang pasti nungguin adek selalu disini 😭😭</p>
         </ParallaxLayer>
       </Parallax>
     </div>
