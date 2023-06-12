@@ -62,6 +62,7 @@ function App() {
         >
           <h4>Pleasee!! Udahan dong ngambeknya sayang! Orang beneran hampa dan kesepian disini 😭😭</h4>
           <p>Blokirnya dibuka lagi ya sayang 😍 Abang pasti nungguin adek selalu disini 😭😭</p>
+          <p>Besar harapan orang untuk blokirnya bisa dibukak 😔 orang cuman pengen kita bicarain baik-baik dan kita selesaikan baik-baik</p>
         </ParallaxLayer>
       </Parallax>
     </div>
